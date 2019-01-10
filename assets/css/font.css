@@ -1,0 +1,24 @@
+@font-face {
+	font-family: "gotham-bookregular";
+	src:url("../fonts/fonts/gotham-book.ttf") format("opentype");
+}
+@font-face {
+	font-family: "gotham-bookbold";
+	src:url("../fonts/fonts/gotham-bold.ttf") format("opentype");
+}
+@font-face {
+	font-family: "gotham-bookmedium";
+	src:url("../fonts/fonts/gotham-medium.ttf") format("opentype");
+}
+@font-face {
+	font-family: "poppins-medium";
+	src:url("../fonts/fonts/Poppins-Medium.ttf") format("opentype");
+}
+@font-face {
+	font-family: "poppins-regular";
+	src:url("../fonts/fonts/Poppins-Regular.ttf") format("opentype");
+}
+@font-face {
+	font-family: "montserrat-medium";
+	src:url("../fonts/fonts/Montserrat-Medium.otf") format("opentype");
+}

@@ -1,0 +1,364 @@
+/* Navbar */
+.navbar-section{
+    background-color: #58CFCD;
+}
+.navbar-section .navbar{
+    padding: 0px 90px;
+}
+.navbar-section .navbar-collapse ul.navbar-nav li a {
+    color: #FFFFFF;;
+    font-family: "gotham-bookmedium";
+    font-size:14px;	
+    letter-spacing: 0.7px;	
+    line-height: 17px;
+    background-color:transparent;
+    padding-top:24px;
+    padding-bottom: 24px;
+}
+.navbar-section .navbar-collapse ul.navbar-nav li{
+    padding-right:33px;
+}
+
+.navbar-section .navbar-logo{
+    padding:6px 0px;
+}
+.navbar-section .navbar-collapse{
+    padding-left: 450px;
+}
+.navbar-section .button-section{
+    float:right;
+}
+.navbar-section .button-section .signup-button{
+    border: 1.5px solid #FFFFFF;	
+    border-radius: 5px;	
+    background-color: #FFFFFF!important;
+    color: #58CFCD!important;
+    padding: 12px 26px!important;
+    margin-top: 10px;
+}
+/* top section */
+.navbar-section .top-bar{
+    padding: 0px 90px;
+}
+.navbar-section .top-bar{
+    background-color:#22BEB9;
+}
+.navbar-section .top-bar .text-section{
+    float: right;
+}
+.navbar-section .top-bar .text-section  ul.list-text li a{
+    color: #FFFFFF;
+    font-family: "gotham-bookregular";
+    font-size: 12px;
+    letter-spacing: 0.6px;	
+    line-height: 13px;
+    text-decoration: none;
+}
+.navbar-section .top-bar .text-section  ul.list-text li{
+    list-style: none;
+    display:inline-block;
+    padding:7px 17px;
+}
+.navbar-section .top-bar .icon-section ul.list-icon li a{
+    color: #FFFFFF;	
+    font-size: 16px;	
+    line-height: 17px;	
+    text-decoration: none;
+}
+.navbar-section .top-bar .icon-section ul.list-icon li{
+    list-style: none;
+    display:inline-block;
+    padding:6px 0px;
+    padding-right:18px;
+}
+/* banner-section */
+.banner-section .text-section h1{
+    letter-spacing: 0.22px;	
+    line-height: 46px;
+    font-size: 34px;
+    color: #000000;
+    font-family: "gotham-bookbold";
+    padding-bottom: 26px;
+}
+.banner-section .text-section p{
+    letter-spacing: 0.1px;	
+    line-height: 24px;
+    font-size: 16px;
+    color: #000000;
+    font-family: "gotham-bookmedium";    
+}
+.banner-section .text-section a{
+    color: #FFFFFF;
+    padding:9px 25px;
+    background-color:#F26967;
+    text-decoration: none;
+    font-family: "montserrat-medium";
+    font-size: 15px;
+    line-height: 24px;
+    border-radius: 5px;
+}
+.banner-section .text-section .red-button{
+    padding-top: 28px;
+}
+.banner-section .image-section img{
+    padding: 15px 0px;
+    padding-bottom: 0px;
+    width:64%;
+}
+.banner-section{
+    margin-top: 100px;
+    padding:0px 90px;
+    margin-bottom: 14px;
+    background-color: #F7F7F7;
+}
+.banner-section .text-section{
+    padding: 150px 0px;
+}
+.banner-section .text-section span{
+    color:#F26967
+}
+/* content-section */
+.content-section{
+    padding:71px;
+}
+.content-section .content-body .icon-section img{
+    padding-bottom: 30px;
+}
+.content-section .content-head h1{
+    font-size: 24px;
+    letter-spacing: 0.15px;	
+    line-height: 29px;
+    font-family: "gotham-bookmedium";
+    text-align: center;
+    padding-bottom:27px;
+}
+.content-section .content-head p{
+    font-size: 14px;	
+    letter-spacing: 0.09px;	
+    line-height: 23px;
+    font-family: "gotham-bookmedium";
+    text-align: center;
+    color: #666666;
+    padding:0px 170px;
+    padding-bottom:26px;
+}
+.content-section .content-body .icon-section  p{
+    font-size: 13px;	
+    line-height: 25px;
+    font-family: "poppins-regular";
+    padding: 0px 40px;
+}
+.content-section .content-body .icon-section  h1{
+    font-size: 16px;	
+    line-height: 19px;
+    font-family:"gotham-bookmedium";
+    color: #000000;
+    padding-bottom: 30px;
+}
+.content-section .content-body .icon-section {
+    text-align: center;
+}
+/* content-section 1*/
+.content-section1{
+    padding:71px;
+    background-color: #F7F7F7;
+}
+.content-section1 .content-body .icon-section img{
+    padding-bottom: 30px;
+}
+.content-section1 .content-head h1{
+    font-size: 24px;
+    letter-spacing: 0.15px;	
+    line-height: 29px;
+    font-family: "gotham-bookmedium";
+    text-align: center;
+    padding-bottom:27px;
+}
+.content-section1 .content-head p{
+    font-size: 14px;	
+    letter-spacing: 0.09px;	
+    line-height: 23px;
+    font-family: "gotham-bookmedium";
+    text-align: center;
+    color: #666666;
+    padding:0px 170px;
+    padding-bottom:26px;
+}
+.content-section1 .content-body .icon-section p{
+    font-size: 13px;	
+    line-height: 25px;
+    font-family: "poppins-regular";
+    padding: 0px 40px;
+    margin-bottom: 40px;
+}
+.content-section1 .content-body .icon-section  h1{
+    font-size: 16px;	
+    line-height: 19px;
+    font-family:"gotham-bookmedium";
+    color: #000000;
+    padding-bottom: 30px;
+}
+.content-section1 .content-body .icon-section {
+    text-align: center;
+}
+.content-section1 a{
+    color: #FFFFFF;
+    padding:9px 40px;
+    background-color:#F26967;
+    text-decoration: none;
+    font-family: "montserrat-medium";
+    font-size: 15px;
+    line-height: 24px;
+    border-radius: 5px;
+    text-align: center;
+}
+.content-section1 .red-button{
+    text-align: center;
+}
+
+/* Recent-Articles */
+.card-section{
+    padding:90px;
+}
+.card-section .content-head h1{
+    font-size: 24px;
+    letter-spacing: 0.15px;	
+    line-height: 29px;
+    font-family: "gotham-bookmedium";
+    text-align: center;
+    padding-bottom:27px;
+}
+.card-section .content-head p{
+    font-size: 14px;	
+    letter-spacing: 0.09px;	
+    line-height: 23px;
+    font-family: "gotham-bookmedium";
+    text-align: center;
+    color: #666666;
+    padding:0px 170px;
+    padding-bottom: 70px;
+}
+.card-section .card .image img{
+   width:100%;
+}
+.card-section .card  .text p{
+	font-size: 15px;
+	font-family: "gotham-bookregular";
+    line-height: 23px;
+    padding: 15px 20px;
+}
+.card-section .card {    
+    box-shadow: 0 2px 6px 0 rgba(0,0,0,0.17);
+}
+.card-section .card-button a{
+    color: #F26967;
+    padding:9px 15px;
+    background-color:#FFFFFF;
+    text-decoration: none;
+    font-family: "montserrat-medium";
+    font-size: 15px;
+    line-height: 24px;
+    border-radius: 2px;
+    text-align: center;
+    border: 1px solid #F26967
+}
+.card-section .card-button{
+    text-align: center;
+    padding-top:50px;
+}
+/* Footer top */
+.footer-top{		
+    background-color: #131313;
+    padding:69px 135px;
+}
+
+.footer-top .first-footer img{
+    height: 44px;
+}
+.footer-top .first-footer p{		
+    font-size: 14px;
+    font-family: "gotham-bookregular";
+    color: #FFFFFF;
+    line-height: 23px;
+    opacity:0.6;
+}
+
+.footer-top .second-footer h1{
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 22px;
+    font-family: "gotham-bookmedium";
+    padding:0px 40px;
+    
+}
+.footer-top .second-footer ul.footer-list li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    opacity:0.6;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: "gotham-bookmedium";
+  
+}
+.footer-top .second-footer ul.footer-list li{
+    list-style: none;
+    padding-top:19px;
+}
+
+.footer-top .third-footer h1{
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 22px;
+    font-family: "gotham-bookmedium";
+    padding:0px 40px;
+    
+}
+.footer-top .third-footer ul.footer-list li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    opacity:0.6;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: "gotham-bookmedium";
+  
+}
+.footer-top .third-footer ul.footer-list li{
+    list-style: none;
+    padding-top:19px;
+}
+.footer-top .fourth-footer h1{
+    color: #FFFFFF;
+    font-size: 16px;
+    line-height: 22px;
+    font-family: "gotham-bookmedium";
+    padding:0px 40px;
+    
+}
+.footer-top .fourth-footer ul.footer-list li a{
+    text-decoration: none;
+    color: #FFFFFF;
+    opacity:0.6;
+    font-size: 14px;
+    line-height: 19px;
+    font-family: "gotham-bookmedium";
+  
+}
+.footer-top .fourth-footer ul.footer-list li{
+    list-style: none;
+    padding-top:19px;
+}
+/* footer-bottom */
+.footer-bottom .footer-content p{
+    color: #FFFFFF;
+    opacity: 0.9;
+    font-size: 12px;
+    font-family: "gotham-bookmedium";
+    line-height: 18px;
+}
+
+.footer-bottom .footer-content{
+    padding:19px 75px;
+}
+.footer-bottom{
+    background-color:#000000;
+}
